@@ -1,0 +1,11 @@
+{
+  "apikey": "apikey",
+  "dbhost": "127.0.0.1",
+  "dbname": "dbname",
+  "dbpass": "root",
+  "dbport": "3306",
+  "dbtype": "sqlite3",
+  "dbuser": "root",
+  "port": "5003",
+  "tor": "9050"
+}

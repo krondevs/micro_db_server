@@ -1,0 +1,10 @@
+{
+  "apikey": "apikey",
+  "dbhost": "127.0.0.1",
+  "dbname": "database_name",
+  "dbpass": "123456",
+  "dbport": "3306",
+  "dbuser": "jober",
+  "port": "5003",
+  "tor": "9051"
+}
